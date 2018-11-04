@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class QuickSortClient {
 	
-	public static final int ITERATION_COUNT = 5;
+	public static final int ITERATION_COUNT = 20;
 
 	public static void main(String[] args) {
 		
